@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-meetupeng-dev-194916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::616991809639:role/amplify-meetupeng-dev-194916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::616991809639:role/amplify-meetupeng-dev-194916-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-meetupeng-dev-194916-deployment",
+      "UnauthRoleName": "amplify-meetupeng-dev-194916-unauthRole",
+      "StackName": "amplify-meetupeng-dev-194916",
+      "StackId": "arn:aws:cloudformation:eu-central-1:616991809639:stack/amplify-meetupeng-dev-194916/7bac3570-829a-11eb-9e11-0233af4865da",
+      "AmplifyAppId": "dlb3tnb0rmz3s"
+    }
+  }
+}
